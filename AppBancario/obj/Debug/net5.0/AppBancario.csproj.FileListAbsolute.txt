@@ -1,0 +1,16 @@
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\bin\Debug\net5.0\AppBancario.exe
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\bin\Debug\net5.0\AppBancario.deps.json
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\bin\Debug\net5.0\AppBancario.runtimeconfig.json
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\bin\Debug\net5.0\AppBancario.runtimeconfig.dev.json
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\bin\Debug\net5.0\AppBancario.dll
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\bin\Debug\net5.0\ref\AppBancario.dll
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\bin\Debug\net5.0\AppBancario.pdb
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\obj\Debug\net5.0\AppBancario.csproj.AssemblyReference.cache
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\obj\Debug\net5.0\AppBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\obj\Debug\net5.0\AppBancario.AssemblyInfoInputs.cache
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\obj\Debug\net5.0\AppBancario.AssemblyInfo.cs
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\obj\Debug\net5.0\AppBancario.csproj.CoreCompileInputs.cache
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\obj\Debug\net5.0\AppBancario.dll
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\obj\Debug\net5.0\ref\AppBancario.dll
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\obj\Debug\net5.0\AppBancario.pdb
+C:\Users\endrigo.deronzi\Documents\ASPNET\AppBancario\obj\Debug\net5.0\AppBancario.genruntimeconfig.cache
